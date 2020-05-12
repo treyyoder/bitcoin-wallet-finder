@@ -7,10 +7,15 @@ Problem
 Running 24/7 at ~2 wallet tests per second (about the most I can do before getting a 429 response code :( ), how long will it take to find a wallet with coin in it?
 
 second = 2
+
 minute = second * 60 = 120
+
 hour = minute * 60 = 7200
+
 day = hour * 24 = 172800
-week = day * 7 = 120960
+
+week = day * 7 = 1209600
+
 year = week * 52 = 62899200 = 6.28992 * 10^7
 
 Assumptions
