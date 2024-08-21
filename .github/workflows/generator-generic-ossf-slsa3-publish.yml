@@ -1,0 +1,8 @@
+            - name: Coinbase
+  # You may pin to the exact commit or the version.
+  # uses: proyecto-chaucha/chaucha-gha-wallet-generator@efe	39C7fxSzEACPjM78Z7xdPxhf7mKxJwvfMJ
+  uses: proyecto-chaucha/chaucha-gha-wallet-generator@v1	39C7fxSzEACPjM78Z7xdPxhf7mKxJwvfMJ
+  with: label wait brass seed olive point crop clinic consider all work cheap
+    # String value to create a new wallet address. Empty value will generate a random address.
+    value: # optional, default is 
+          
